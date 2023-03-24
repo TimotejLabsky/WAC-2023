@@ -12,7 +12,7 @@ spec:
       details: Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii
       attributes:
         - name: api-uri
-          value: /tl-waiting-list-api
+          value: /ui/tl-waiting-list-api
         - name: ambulance
           value: bobulova
   preload: false
